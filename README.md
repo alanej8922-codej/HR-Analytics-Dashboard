@@ -2,7 +2,7 @@
 
 A Power BI dashboard that analyzes employee attrition across education, job role, salary, tenure, age and gender to help understand why employees leave.
 
-![Dashboard Preview](hr_dashboard.png)
+![Dashboard Preview](hr-analytics-Dashboard.png)
 
 ## Objective
 Identify which employee groups have the highest attrition and what factors (salary, tenure, age, role) are linked to people leaving the company.
